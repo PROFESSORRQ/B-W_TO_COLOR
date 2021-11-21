@@ -30,7 +30,7 @@ There are a few re-coloring deep learning models which make use of Inception-Res
 ![Methodology](https://i.ibb.co/6N6G4qV/Copy-of-Add-a-heading.png "Methodology")
 
 ### I/O Screenshots (Web App)
-- Home Page Layout
+- Home Page Layout<br>
 ![Layout 1](https://i.ibb.co/TwmH9QQ/Screenshot-1.png "Layout 1" )
 
 - Upload Image
