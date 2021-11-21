@@ -7,11 +7,8 @@ In this project, I have developed an autoencoder that tries to recolorize the im
 
 The dataset of images used in this project, containing images of different art styles, can be viewed [here](https://www.kaggle.com/thedownhill/art-images-drawings-painting-sculpture-engraving/version/2). Apart from this, I have added more images from Google to the dataset to make the model more efficient and robust. In the proposed Autoencoder Architecture, there is an encoder and a decoder. The encoder has 8 convolution layers while the decoder has 5 convolution layers consisting of filters of different sizes. The model took around 5K seconds to train. The training accuracy is obtained to be 83.50%.
 
-### Mobile Android Application
-[Click here](https://youtu.be/iviUiaPFw7U) to watch the video.
-
 ### Web Application
-[Click here](https://colorit-from-bnw.herokuapp.com/) to go to the website.
+[Click here](https://color-image.herokuapp.com/) to go to the website.
 
 ### Autoencoder Model Architecture
 ![Autoencoder Model](https://i.ibb.co/Wxjpg1R/1-nqz-Wupx-C60i-AH2d-Yr-FT78-Q.png "Autoencoder Model")
