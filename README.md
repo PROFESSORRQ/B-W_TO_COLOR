@@ -14,7 +14,7 @@ The dataset of images used in this project, containing images of different art s
 ![Autoencoder Model](https://i.ibb.co/Wxjpg1R/1-nqz-Wupx-C60i-AH2d-Yr-FT78-Q.png "Autoencoder Model")
 
 ### Python Notebook
-The .ipynb notebook can be accessed [here](https://nbviewer.org/github/lakkshh/ColorIt-Colorize-BW-Images/blob/master/ColorIt%20Color%20BW%20Photographs.ipynb).
+The .ipynb notebook can be accessed [here](https://nbviewer.org/github/PROFESSORRQ/B-W_TO_COLOR/blob/main/COLOR.ipynb).
 
 ### Novelty
 There are a few re-coloring deep learning models which make use of Inception-Resnet-v2 pre-trained model for feature extraction or other highly complex mechanisms. I have tried to achieve the same using a comparitively simpler encoder-decoder architecture using the convolution layers only and obtain the same results as the other models. It is observed that the results obtained are quite good and can further improve if trained with an even larger dataset.
