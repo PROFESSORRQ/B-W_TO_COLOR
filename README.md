@@ -33,8 +33,8 @@ There are a few re-coloring deep learning models which make use of Inception-Res
 - Home Page Layout<br>
 ![Layout 1](https://i.ibb.co/TwmH9QQ/Screenshot-1.png "Layout 1" )
 
-- Upload Image
-![Upload Image](https://i.ibb.co/R39zCG4/Screenshot-216.png "Upload Image")
+- Upload Image<br>
+![Upload Image](https://i.ibb.co/Z1nqCFB/Screenshot-2.png "Upload Image")
 
-- Colorize
-![Colorize](https://i.ibb.co/2kNrscQ/Screenshot-217.png "Colorize")
+- Colorize<br>
+![Colorize](https://i.ibb.co/kgtZ3zL/Screenshot-3.png "Colorize")
