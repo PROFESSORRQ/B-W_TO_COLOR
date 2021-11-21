@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+keras==2.6.0
+Flask==1.1.2
+tensorflow-cpu
+Pillow==8.4.0
+scikit-image
+gunicorn
